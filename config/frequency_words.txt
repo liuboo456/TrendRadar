@@ -3,7 +3,9 @@
 千问
 qwen
 
-贵州茅台
+茅台
+五粮液
+白酒
 
 格力电器
 董明珠
@@ -15,16 +17,18 @@ DeepSeek
 梁文锋
 
 华为
+鸿蒙
 
 字节
-bytedance
+抖音
 张一鸣
 
 特斯拉
+星链
+spaceX
 马斯克
 
 微软
-Microsoft
 
 英伟达
 NVIDIA
@@ -38,22 +42,17 @@ deepmind
 chatgpt
 openai
 sora
-
 claude
 Anthropic
+ai
+人工智能
+自动驾驶
+机器人
 
 iphone
 ipad
 mac
 ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
 
 芯片
 光刻机
@@ -68,12 +67,9 @@ ai
 特朗普
 川普
 
+习近平
+
 火灾
 地震
 台风
-
-
-武汉
-香港
-深圳
-上海
+天灾
